@@ -51,10 +51,10 @@ A simple yet powerful to-do list application built with HTML, CSS, and JavaScrip
 
 ## File Structure
 todo-list-app/
-├── index.html # Main HTML file
-├── styles.css # CSS stylesheet
-├── script.js # JavaScript functionality
-└── README.md # This documentation file
+index.html # Main HTML file
+styles.css # CSS stylesheet
+script.js # JavaScript functionality
+README.md # This documentation file
 
 ## Customization
 
